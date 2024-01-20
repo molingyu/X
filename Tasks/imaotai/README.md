@@ -22,7 +22,7 @@ https://app.moutai519.com.cn/xhr/front/user/info url script-response-body https:
 
 > 重写脚本是为了获取相关参数, 获取成功后请禁用重写脚本
 
-> 务必添加 [BoxJS订阅](https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json) 并添加相关参数
+> 务必添加 [BoxJS订阅](https://raw.githubusercontent.com/molingyu/X/main/Tasks/boxjs.json) 并添加相关参数
 
 ## 感谢
 
